@@ -4,7 +4,7 @@
 
 <br />
 
-<h2 align="center">🖥️ Tech Stack</h2>
+
 
 <h4 align="center">Frontend:</h4>
 
@@ -129,12 +129,12 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/zuhedshaikh95/fiverr-clone) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/Ayyappan-M-P/fiverr-clone) or just clone the project using this command.
 
 ```
 Using HTTPS
 
-# git clone https://github.com/zuhedshaikh95/fiverr-clone.git
+# git clone https://github.com/Ayyappan-M-P/fiverr-clone.git
 ```
 
 - Open terminal on your workspace with
@@ -228,12 +228,7 @@ e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
 
 <br />
 
-## Contact
 
-### Let's connect 🤝 <br />
-
-[![linkedin](https://img.shields.io/badge/Zuhed_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhedshaikh95/)
-[![GitHub](https://img.shields.io/badge/Zuhed_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zuhedshaikh95)
 
 
 
