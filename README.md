@@ -235,7 +235,7 @@ e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
 [![linkedin](https://img.shields.io/badge/Zuhed_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhedshaikh95/)
 [![GitHub](https://img.shields.io/badge/Zuhed_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zuhedshaikh95)
 
-© 2023 Zuhed Shaikh
+
 
 ## Show your support
 
