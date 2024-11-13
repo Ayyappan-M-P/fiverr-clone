@@ -2,45 +2,6 @@
 
 <h3 align="center">A setout to clone one of the largest outsourcing platforms using the toolset from the MERN stack.</h3>
 
-<br />
-
-
-
-<h4 align="center">Frontend:</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-</p>
-
-<h4 align="center">Backend:</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-
-</p>
-
-<h4 align="center">Deployed On:</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-</p>
-
-<br />
-<p align="center">
-  <em>
-    <b>Pardon render.com's slow service to the server for initial api response</b>
-  </em>
-</p>
-<br />
-
-![cover](https://i.ibb.co/16SWfbg/Fiverr-Gif.gif)
 
 <br />
 <br />
@@ -59,8 +20,6 @@ As for the front end, the UI has only been built using JSX and Scss. For state m
 - Gig management
 - Payments page with Stripe integration
 - Message page with one-to-one chat with seller and buyer
-- Single gig page
-- Gig search
 - Image uploading via cloudinary, a media management
 
 <br />
@@ -83,7 +42,7 @@ As for the front end, the UI has only been built using JSX and Scss. For state m
 
 <br />
 
-## Glimpses of fiverr-clone 😉 :
+##fiverr-clone  :
 
 <table>
   <tr>
